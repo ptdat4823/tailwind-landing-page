@@ -20,11 +20,7 @@ const AboutSectionTwo = () => {
           </div>
           <div className="w-full px-4 lg:w-1/2">
             <div className="wow fadeInUp max-w-[470px]" data-wow-delay=".2s">
-              <SectionTitle
-                title="Why choose MStore?"
-                paragraph="The main ‘thrust’ is to focus on educating attendees on how to best protect highly vulnerable business applications with interactive panel discussions and roundtables."
-                mb="44px"
-              />
+              <SectionTitle title="Why choose MStore?" paragraph="" mb="44px" />
               <div className="mb-9">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
                   Simplicity
